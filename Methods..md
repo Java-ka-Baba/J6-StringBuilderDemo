@@ -1,0 +1,17 @@
+- void  ensureCapacity(int minimumCapacity)
+- int  compareTo(StringBuilder another)
+- StringBuilder  deleteCharAt(int index)
+- int  indexOf(String str)
+- StringBuilder  insert(int offset, String str)
+- StringBuilder  repeat(CharSequence cs, int count)
+- StringBuilder  reverse()
+### String class Methods
+- String  concat(String str)
+- boolean equalsIgnoreCase(String anotherString)
+- String  strip()
+- String  substring(int beginIndex)
+- String  substring(int beginIndex, int endIndex)
+- char[]  toCharArray()
+- static String  valueOf(char c) 
+- String  repeat(int count)
+ 
